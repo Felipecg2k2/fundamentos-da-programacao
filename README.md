@@ -1,29 +1,43 @@
-# 🧠 Fundamentos da Programação
+# 🧠 Conceitos e Prática de Programação
 
-Repositório dedicado ao estudo e prática dos **conceitos fundamentais da programação**, utilizando diversas linguagens para explorar como a lógica se aplica em diferentes contextos.
+Bem-vindo(a) ao meu repositório de estudos em **lógica e fundamentos da programação**!  
+O repositório contém **conceitos teóricos e exemplos práticos** em diversas linguagens, cobrindo desde a base da lógica até estruturas mais complexas.
 
-## 💡 Objetivo
-Demonstrar como conceitos básicos de programação são implementados em linguagens diferentes.
+---
 
-## 🧩 Linguagens abordadas
+## 🚀 Objetivo
+
+Registrar e acompanhar minha evolução no aprendizado de programação, construindo uma base sólida de lógica, boas práticas e clareza de raciocínio.  
+Com o tempo, o repositório será expandido para incluir **banco de dados**, **front-end** e **projetos práticos**.
+
+---
+
+## 🧩 Linguagens Utilizadas
+
+Por enquanto, os exemplos estão sendo feitos nas seguintes linguagens:
+
 - 🐍 **Python**
 - 💻 **C**
 - ☕ **Java**
-- ⚡ **JavaScript**
+- 🌐 **JavaScript**
 - 🐘 **PHP**
 
-## 📂 Estrutura do repositório
-fundamentos-da-programacao/
-├── python/
-├── c/
-├── java/
-├── javascript/
-├── php/
-└── desafios/
+Cada conceito será demonstrado em uma ou mais dessas linguagens.
 
-Cada pasta contém exemplos e exercícios práticos para fixar os conceitos.
+---
 
-## 🚀 Próximos passos
-- Adicionar exemplos de cada conceito em todas as linguagens
-- Criar desafios comparando sintaxes
-- Integrar com banco de dados e front-end futuramente
+## 📘 Estrutura
+
+Toda a explicação sobre a **organização do repositório** (como as pastas e arquivos estão divididos) está dentro da pasta:
+
+📁 [`01-lógica-e-algoritmos/introducao.md`](./01-lógica-e-algoritmos/introducao.md)
+
+Comece por ela para entender como navegar e estudar os conteúdos.
+
+---
+
+## 🧑‍💻 Autor
+
+**Felipe Cunha Guedes**  
+💼 Estudante de programação e desenvolvimento de sistemas  
+📘 Aprendendo constantemente novas linguagens e tecnologias
