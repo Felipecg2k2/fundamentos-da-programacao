@@ -30,7 +30,7 @@ Cada conceito será demonstrado em uma ou mais dessas linguagens.
 
 Toda a explicação sobre a **organização do repositório** (como as pastas e arquivos estão divididos) está dentro da pasta:
 
-📁 [`00-lógica-e-algoritmos/introducao.md`](./00-lógica-e-algoritmos/introducao.md)
+📁 [`00-logica-e-algoritmos/introducao.md`](./00-logica-e-algoritmos/introducao.md)
 
 Comece por ela para entender como navegar e estudar os conteúdos.
 
