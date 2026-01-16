@@ -39,5 +39,6 @@ Comece por ela para entender como navegar e estudar os conteúdos.
 ## 🧑‍💻 Autor
 
 **Felipe Cunha Guedes**  
+
 💼 Estudante de programação e desenvolvimento de sistemas  
 📘 Aprendendo constantemente novas linguagens e tecnologias
