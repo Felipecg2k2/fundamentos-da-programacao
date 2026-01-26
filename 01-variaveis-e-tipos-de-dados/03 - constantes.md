@@ -1,4 +1,4 @@
-Constantes
+# Constantes
 
 Constantes são valores que não podem ser alterados durante a execução de um programa. Diferente das variáveis, que podem ter seus valores modificados ao longo do código, uma constante mantém sempre o mesmo valor depois de definida.
 

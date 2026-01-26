@@ -3,7 +3,7 @@
 Bem-vindo(a)! 👋  
 Antes de começar a programar de fato, é importante entender os **conceitos fundamentais** que estão por trás de toda linguagem de programação: **lógica, algoritmos e raciocínio computacional**.  
 Esses conceitos são o alicerce da programação — entender o *como pensar* é mais importante do que saber *como escrever o código*.
-Abordarei apenas de forma superficíal, recomendo que procure e estude mais a fundo esses conceitos apresentados aqui pois são de extrema importância.
+Abordarei apenas de forma superficíal, recomendo que procure e estude a fundo os conceitos apresentados pois são de extrema importância.
 
 ---
 
@@ -88,7 +88,3 @@ Eles ajudam a entender **como o programa pensa**, antes de escrever uma linha de
 
 Entender **lógica, algoritmos e fluxogramas** é o primeiro passo para se tornar um bom programador.  
 Depois que você domina o raciocínio lógico, aprender novas linguagens se torna apenas uma questão de **prática e sintaxe**.
-
----
-
-📘 *Próximo passo:* após essa introdução, comece a explorar os exemplos práticos nas diferentes linguagens para ver esses conceitos em ação.

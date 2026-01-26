@@ -26,11 +26,11 @@ Cada uma contém:
 
 | Pasta | Tema Principal | Descrição |
 |:------|:----------------|:-----------|
-| `01-lógica-e-algoritmos` | Fundamentos da lógica | Introdução à lógica de programação, algoritmos e raciocínio computacional. |
-| `02-variaveis-e-tipos` | Variáveis e tipos de dados | Entenda como armazenar e manipular dados nas linguagens. |
-| `03-condicionais-e-loops` | Estruturas de controle | Conceitos e exemplos de `if`, `else`, `switch`, `for`, `while`, etc. |
-| `04-funcoes-e-metodos` | Modularização do código | Organização do código em funções reutilizáveis. |
-| `05-estruturas-de-dados` | Arrays, listas e vetores | Estruturas para armazenar múltiplos valores. |
+| `00-lógica-e-algoritmos` | Fundamentos da lógica | Introdução à lógica de programação, algoritmos e raciocínio computacional. |
+| `01-variaveis-e-tipos-de-dados` | Variáveis e tipos de dados | Entenda como armazenar e manipular dados nas linguagens. |
+| `02-condicionais-e-loops` | Estruturas de controle | Conceitos e exemplos de `if`, `else`, `switch`, `for`, `while`, etc. |
+| `03-funcoes-e-metodos` | Modularização do código | Organização do código em funções reutilizáveis. |
+| `04-estruturas-de-dados` | Arrays, listas e vetores | Estruturas para armazenar múltiplos valores. |
 
 *(Novas pastas serão adicionadas conforme meu aprendizado evoluir.)*
 
@@ -38,7 +38,7 @@ Cada uma contém:
 
 ## 🧠 O Que Você Vai Encontrar Aqui
 
-Nesta pasta especificamente (`01-lógica-e-algoritmos`), você encontrará:
+Nesta pasta especificamente (`00-lógica-e-algoritmos`), você encontrará:
 - Conceitos teóricos sobre **lógica de programação**;  
 - Explicações sobre **algoritmos e pseudocódigo**;  
 - Exercícios simples resolvidos em várias linguagens;  
@@ -55,11 +55,11 @@ Os exemplos serão demonstrados em diferentes linguagens, conforme meu domínio 
 - 🐘 **PHP**
 
 Cada arquivo será nomeado de forma clara, por exemplo:
-exemplo01-entrada-saida.py
-exemplo01-entrada-saida.c
-exemplo01-entrada-saida.java
-exemplo01-entrada-saida.js
-exemplo01-entrada-saida.php
+exemplo_01-entrada-saida.py
+exemplo_01-entrada-saida.c
+exemplo_01-entrada-saida.java
+exemplo_01-entrada-saida.js
+exemplo_01-entrada-saida.php
 
 ---
 
