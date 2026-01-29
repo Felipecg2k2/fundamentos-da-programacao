@@ -42,4 +42,3 @@ Comece por ela para entender como navegar e estudar os conteúdos.
 
 💼 Estudante de programação e desenvolvimento de sistemas  
 📘 Aprendendo constantemente novas linguagens e tecnologias.
-
